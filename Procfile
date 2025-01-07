@@ -1,1 +1,1 @@
-worker: python3 main.py
+worker: python electricity_bot.py
