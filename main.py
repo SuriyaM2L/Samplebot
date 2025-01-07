@@ -8,7 +8,7 @@ BOT_TOKEN = "7737992517:AAHVqoKAEmn8dZzPfD-3hjOKMdNCT4wvLuk"
 TechMagazine = Client(
     name="SampleBot",
     api_id=API_ID,
-    api-hash=API_HASH,
+    api_hash=API_HASH,
     bot_token=BOT_TOKEN
 )
 
